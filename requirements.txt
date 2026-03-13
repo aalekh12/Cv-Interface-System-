@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+numpy
+pillow
+tritonclient[http]
+python-multipart
+loguru
+prometheus-client
+pydantic_settings
