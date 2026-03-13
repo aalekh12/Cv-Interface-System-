@@ -6,7 +6,7 @@ The system supports **concurrent inference requests**, **dynamic batching**, **c
 
 ---
 
-- Demo Video:  
+- Demo Video: [Watch](https://github.com/aalekh12/Cv-Interface-System-/blob/master/Cv-Intreface-Demo.mp4)
 
 # 📌 Features
 
